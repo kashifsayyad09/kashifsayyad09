@@ -1,3 +1,10 @@
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+---
+
 # 💫 About Me:
 💫 About Me<br><br>🚀 Building a real-time CNG Fuel Finder App for riders<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
 
@@ -25,3 +32,4 @@
 [![](https://visitcount.itsvg.in/api?id=kashifsayyad09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
