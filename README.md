@@ -30,7 +30,7 @@
 # kashif-ali.config.yaml
 name:       "Syed Kashif Ali"
 role:       "DevOps Engineer → Future Enterprise Architect"
-location:   "Pakistan 🇵🇰"
+location:   "India 🇮🇳"
 status:     "ACTIVE — Shipping to prod daily"
 
 current_mission:
