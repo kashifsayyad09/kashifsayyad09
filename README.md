@@ -94,6 +94,17 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 ![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 📡 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 
 ---
 
@@ -137,6 +148,53 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+
+## 🚀 FEATURED PROJECTS
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| 🤖 **MCP Server + Claude AI** | Docker · AWS EC2 · Amazon Bedrock · REST API | Built MCP server for Claude AI via Bedrock; prompt orchestration, containerized & deployed on EC2 |
+| 🔁 **CI/CD & GitOps Pipeline** | Jenkins · Kubernetes · Argo CD · Prometheus · Grafana | End-to-end automated build/test/deploy; GitOps sync via Argo CD; full observability stack |
+| ☁️ **AWS Infrastructure with Terraform** | Terraform · EC2 · S3 · IAM · VPC · Docker | Modular IaC for AWS; least-privilege IAM; Docker workloads on EC2 |
+| ⚙️ **Kubernetes Cluster Setup** | kubeadm · Helm · RBAC · Ingress · HPA · EBS | Multi-node cluster on AWS EC2; Helm charts; NGINX Ingress; HPA + persistent storage |
+| 📋 **Ansible Config Management** | Ansible · YAML · Linux · Ansible Vault | Automated server provisioning; **80%+ reduction** in manual config time; rolling updates |
+| 🐧 **Linux Admin & Shell Scripting** | Linux · Bash · Cron · systemd · UFW | Log rotation, disk alerting, SSH hardening, Fail2ban brute-force protection |
+| 📊 **Monitoring & Alerting Stack** | Prometheus · Grafana · Alertmanager · Datadog | Full observability: custom dashboards for CPU, memory, pod health, latency & error rates |
+| 🔔 **Dynatrace + PagerDuty Alerting** | Dynatrace · PagerDuty · AWS · APM | Auto incident routing; Davis AI noise suppression; reduced MTTD & MTTR |
+| ⚡ **Serverless App on AWS** | Lambda · API Gateway · DynamoDB · CloudFront · S3 | Dual-Lambda architecture; auto CloudFront cache invalidation on deploy |
+
+---
+
+## 🎓 CERTIFICATIONS
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:-----:|:-------------|:-------|
+| ☁️ | **AWS Well-Architected Proficient** | Amazon Web Services |
+| 🤖 | **Claude in Amazon Bedrock** | Amazon Web Services |
+| 🔴 | **Oracle Cloud Infrastructure 2025 Foundations Associate** | Oracle |
+| 🐧 | **LFS101: Introduction to Linux** | The Linux Foundation |
+| ☁️ | **AWS Cloud Practitioner Essentials** | AWS Skill Builder |
+| 🏆 | **AWS Cloud Quest** | Amazon Web Services |
+
+</div>
+
+---
+
+## 🎓 EDUCATION
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| 🎓 **Bachelor of Computer Application** | Savitribai Phule Pune University, Pune | 2022–2025 | CGPA: 8.3/10 |
+| 📚 **Higher Secondary (12th Grade)** | Maharashtra State Board, Beed | 2022 | 74% |
 
 </div>
 
