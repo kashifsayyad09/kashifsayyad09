@@ -1,15 +1,7 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗        ║
-║  ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝        ║
-║  ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗        ║
-║  ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║        ║
-║  ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║        ║
-║  ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<h1>⚡ SYED KASHIF ALI ⚡</h1>
+<h3>☁️ DevOps Engineer · Cloud Architect · Kubernetes Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=650&lines=☁️+AWS+%7C+Azure+%7C+GCP+%7C+OCI+Engineer;🐳+Kubernetes+%26+Docker+Architect;⚙️+CI%2FCD+Pipeline+Automator;📡+Building+Real-time+CNG+Fuel+Finder+App;🎯+Future+Enterprise+DevOps+Architect" alt="Typing SVG" />
 
@@ -152,14 +144,11 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 
 ## 🗺️ CURRENTLY DEPLOYING TO PROD
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🛰️  PROJECT: CNG Fuel Finder — Real-time Rider App         ║
-║  📦  STACK:   React Native · AWS · Kubernetes · Kafka        ║
-║  🔁  CI/CD:   GitHub Actions → ECR → EKS                    ║
-║  📡  STATUS:  ████████████░░░░ 75% — SHIPPING SOON ⚡       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| 🛰️ PROJECT | CNG Fuel Finder — Real-time Rider App |
+|:---|:---|
+| 📦 **STACK** | React Native · AWS · Kubernetes · Kafka |
+| 🔁 **CI/CD** | GitHub Actions → ECR → EKS |
+| 📡 **STATUS** | `████████████░░░░` 75% — SHIPPING SOON ⚡ |
 
 ---
 
