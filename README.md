@@ -1,18 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-<h1>⚡ SYED KASHIF ALI ⚡</h1>
-<h3>☁️ DevOps Engineer · Cloud Architect · Kubernetes Enthusiast</h3>
+---
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=650&lines=☁️+AWS+%7C+Azure+%7C+GCP+%7C+OCI+Engineer;🐳+Kubernetes+%26+Docker+Architect;⚙️+CI%2FCD+Pipeline+Automator;📡+Building+Real-time+CNG+Fuel+Finder+App;🎯+Future+Enterprise+DevOps+Architect" alt="Typing SVG" />
+# 💫 About Me:
+💫 About Me<br><br>🚀 Building a real-time CNG Fuel Finder App for riders<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kashif-ali-844137292/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UR_Kashif_Ali)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=kashifsayyad09&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-kashif-ali-844137292/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UR_Kashif_Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com) 
 
 ---
 
