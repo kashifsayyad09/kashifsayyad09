@@ -23,7 +23,7 @@ location:   "India 🇮🇳"
 status:     "ACTIVE — Shipping to prod daily"
 
 current_mission:
-  - "🛰️  Building real-time CNG Fuel Finder App for riders"
+  - "🛰️  Building real-time Monitoring Tool"
   - "🏗️  Mastering Advanced Kubernetes & Terraform"
   - "🔁  Automating all the things with CI/CD"
   - "🌐  Multi-cloud: AWS · Azure · GCP · OCI"
@@ -199,7 +199,7 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 
 ## 🗺️ CURRENTLY DEPLOYING TO PROD
 
-| 🛰️ PROJECT | CNG Fuel Finder — Real-time Rider App |
+| 🛰️ PROJECT | Monitvops — Real-time monitoring tool |
 |:---|:---|
 | 📦 **STACK** | React Native · AWS · Kubernetes · Kafka |
 | 🔁 **CI/CD** | GitHub Actions → ECR → EKS |
