@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-💫 About Me<br><br>🚀 Building a real-time CICD Tool for CICD<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
+💫 About Me<br><br>🚀 CEO of Drocart<br><br><br>🚀 Building a real-time CICD Tool for CICD<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
 
 
 ## 🌐 Socials:
