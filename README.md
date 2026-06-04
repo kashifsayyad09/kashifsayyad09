@@ -146,43 +146,6 @@ open_to:
 
 ---
 
-# 📊 Battle Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifsayyad09&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifsayyad09&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kashifsayyad09&theme=chartreuse-dark&hide_border=true&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" alt="GitHub Streak" />
-</div>
-
----
-
-# 🏆 Achievement Unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kashifsayyad09&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-# 🔝 Top Battlefield Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kashifsayyad09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories" />
-</div>
-
----
-
-# 💬 Transmission of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
-
----
-
 # 🚀 Featured Projects
 
 | Project | Stack | Highlights |
