@@ -1,68 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Kashif+Ali;DevOps+Engineer+%7C+Cloud+%7C+Kubernetes+%7C+CI%2FCD;Building+Scalable+Systems+for+the+Cloud;Future+Enterprise+DevOps+Architect" alt="Typing SVG" />
-</p>
-
-<h3 align="center">🚀 DevOps Engineer | Multi-Cloud Enthusiast | Automation-First Builder</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-kashif-ali-844137292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@UR_Kashif_Ali">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:kashifsayyad09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kashifsayyad09&style=for-the-badge&color=0af" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💫 About Me
+# 💫 About Me:
+💫 About Me<br><br>🚀 CEO of Drocart<br><br>🚀 Building a real-time CICD Tool for CICD<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-kashif-ali-844137292/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UR_Kashif_Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com) 
+
+---
+
+## ⚡ SYSTEM.INIT — WHO AM I?
 
 ```yaml
-name: "Syed Kashif Ali"
-role: "DevOps Engineer"
-location: "India 🇮🇳"
-focus: "Cloud Infrastructure, Kubernetes, CI/CD, Monitoring, Automation"
-status: "ACTIVE — Shipping to prod daily"
+# kashif-ali.config.yaml
+name:       "Syed Kashif Ali"
+role:       "DevOps Engineer → Future Enterprise Architect"
+location:   "India 🇮🇳"
+status:     "ACTIVE — Shipping to prod daily"
 
-mission:
-  - "Build scalable and reliable cloud-native systems"
-  - "Master Kubernetes, Terraform, and enterprise DevOps"
-  - "Automate delivery pipelines end to end"
-  - "Grow into an Enterprise DevOps Architect"
+current_mission:
+  - "🛰️  Building real-time Monitoring Tool"
+  - "🏗️  Mastering Advanced Kubernetes & Terraform"
+  - "🔁  Automating all the things with CI/CD"
+  - "🌐  Multi-cloud: AWS · Azure · GCP · OCI"
 
-currently_building:
-  - "Monitvops — real-time monitoring platform"
-  - "CI/CD-focused automation solutions"
-  - "Multi-cloud deployment workflows"
-
-open_to:
-  - "Collaborations"
-  - "DevOps projects"
-  - "Cloud consulting"
+fun_fact:   "I find joy in powerful FREE DevOps tools 🎉"
+open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 ```
-
-- 🚀 CEO of **Drocart**
-- ☁️ Working across **AWS, Azure, GCP & OCI**
-- 🐳 Passionate about **Containers & Kubernetes**
-- ⚙️ Automating deployments with **CI/CD pipelines**
-- 📚 Currently mastering **Advanced Kubernetes & Terraform**
-- 🎯 Focused on becoming an **Enterprise DevOps Architect**
-- 🎉 Fun fact: I love powerful **free DevOps tools**
 
 ---
 
-# 🌐 Cloud Dominion
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
-</p>
+## 🌐 CLOUD DOMINION
 
 <div align="center">
 
@@ -75,94 +47,127 @@ open_to:
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ TECH ARSENAL
 
-## ⚙️ DevOps & Automation
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/CircleCI-161616?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
-  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" alt="Travis CI" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-</p>
+### ⚙️ DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![TravisCI](https://img.shields.io/badge/Travis_CI-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-## 🔥 Streaming & Data
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Flink" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+### 🔥 Streaming & Data
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-</p>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-## 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-## 🌐 Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
-  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
+### 🌐 Web & Frameworks
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## 🔧 Build & Package
-<p>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=apacheant&logoColor=white" alt="Ant" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</p>
+### 🔧 Build & Package
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-## 📡 Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" alt="PagerDuty" />
-</p>
+### 📡 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 📊 BATTLE STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifsayyad09&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifsayyad09&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=kashifsayyad09&theme=chartreuse-dark&hide_border=true&fire=00FFB3&ring=00FFB3&currStreakLabel=00FFB3" />
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kashifsayyad09&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🔝 TOP BATTLEFIELD CONTRIBUTIONS
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=kashifsayyad09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 💬 TRANSMISSION OF THE DAY
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+
+## 🚀 FEATURED PROJECTS
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🤖 **MCP Server + Claude AI** | Docker · AWS EC2 · Amazon Bedrock · REST API | Built MCP server for Claude AI via Bedrock with prompt orchestration, containerization, and EC2 deployment |
-| 🔁 **CI/CD & GitOps Pipeline** | Jenkins · Kubernetes · Argo CD · Prometheus · Grafana | Automated build, test, deploy, GitOps sync, and observability |
-| ☁️ **AWS Infrastructure with Terraform** | Terraform · EC2 · S3 · IAM · VPC · Docker | Modular infrastructure as code with secure AWS architecture |
-| ⚙️ **Kubernetes Cluster Setup** | kubeadm · Helm · RBAC · Ingress · HPA · EBS | Multi-node Kubernetes cluster on AWS with production-ready tooling |
-| 📋 **Ansible Config Management** | Ansible · YAML · Linux · Vault | Automated provisioning and configuration with major time savings |
-| 🐧 **Linux Admin & Shell Scripting** | Linux · Bash · Cron · systemd · UFW | Automation, hardening, monitoring, and maintenance scripting |
-| 📊 **Monitoring & Alerting Stack** | Prometheus · Grafana · Alertmanager · Datadog | Dashboards and alerts for CPU, memory, latency, health, and reliability |
-| 🔔 **Dynatrace + PagerDuty Alerting** | Dynatrace · PagerDuty · AWS · APM | Smart incident routing and faster response operations |
-| ⚡ **Serverless App on AWS** | Lambda · API Gateway · DynamoDB · CloudFront · S3 | Scalable serverless architecture with deployment automation |
+| 🤖 **MCP Server + Claude AI** | Docker · AWS EC2 · Amazon Bedrock · REST API | Built MCP server for Claude AI via Bedrock; prompt orchestration, containerized & deployed on EC2 |
+| 🔁 **CI/CD & GitOps Pipeline** | Jenkins · Kubernetes · Argo CD · Prometheus · Grafana | End-to-end automated build/test/deploy; GitOps sync via Argo CD; full observability stack |
+| ☁️ **AWS Infrastructure with Terraform** | Terraform · EC2 · S3 · IAM · VPC · Docker | Modular IaC for AWS; least-privilege IAM; Docker workloads on EC2 |
+| ⚙️ **Kubernetes Cluster Setup** | kubeadm · Helm · RBAC · Ingress · HPA · EBS | Multi-node cluster on AWS EC2; Helm charts; NGINX Ingress; HPA + persistent storage |
+| 📋 **Ansible Config Management** | Ansible · YAML · Linux · Ansible Vault | Automated server provisioning; **80%+ reduction** in manual config time; rolling updates |
+| 🐧 **Linux Admin & Shell Scripting** | Linux · Bash · Cron · systemd · UFW | Log rotation, disk alerting, SSH hardening, Fail2ban brute-force protection |
+| 📊 **Monitoring & Alerting Stack** | Prometheus · Grafana · Alertmanager · Datadog | Full observability: custom dashboards for CPU, memory, pod health, latency & error rates |
+| 🔔 **Dynatrace + PagerDuty Alerting** | Dynatrace · PagerDuty · AWS · APM | Auto incident routing; Davis AI noise suppression; reduced MTTD & MTTR |
+| ⚡ **Serverless App on AWS** | Lambda · API Gateway · DynamoDB · CloudFront · S3 | Dual-Lambda architecture; auto CloudFront cache invalidation on deploy |
 
 ---
 
-# 🎓 Certifications
+## 🎓 CERTIFICATIONS
 
 <div align="center">
 
@@ -179,7 +184,7 @@ open_to:
 
 ---
 
-# 🎓 Education
+## 🎓 EDUCATION
 
 <div align="center">
 
@@ -192,7 +197,7 @@ open_to:
 
 ---
 
-# 🗺️ Currently Deploying to Prod
+## 🗺️ CURRENTLY DEPLOYING TO PROD
 
 | 🛰️ PROJECT | Monitvops — Real-time monitoring tool |
 |:---|:---|
@@ -202,27 +207,11 @@ open_to:
 
 ---
 
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-kashif-ali-844137292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kashifsayyad09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.youtube.com/@UR_Kashif_Ali">
-    <img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube" alt="YouTube" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-## ⚡ "Automate everything. Scale infinitely. Break nothing."
+**⚡ "Automate everything. Scale infinitely. Break nothing." ⚡**
 
-**— Syed Kashif Ali, DevOps Engineer**
+*— Syed Kashif Ali, DevOps Engineer*
 
 <br/>
 
