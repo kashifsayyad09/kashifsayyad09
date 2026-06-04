@@ -1,107 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=17DF1E&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Syed+Kashif+Ali;AWS+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+Terraform+%7C+DevOps;Building+Real-Time+Cloud+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Syed Kashif Ali</h1>
+
+<h3 align="center">
+DevOps Engineer • Cloud Enthusiast • Kubernetes Practitioner • Automation First
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/syed-kashif-ali-844137292">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@UR_Kashif_Ali">
+<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:kashifsayyad09@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
 
-# 💫 About Me:
-💫 About Me<br><br>🚀 CEO of Drocart<br><br><br>🚀 Building a real-time CICD Tool for CICD<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
+# 💫 About Me
 
+🚀 CEO of Drocart
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-kashif-ali-844137292/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UR_Kashif_Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com) 
+🚀 Building a Real-Time CI/CD Platform
 
----
+☁️ Working across AWS, Azure, GCP & OCI
 
-## ⚡ SYSTEM.INIT — WHO AM I?
+🐳 Passionate about Containers, Kubernetes & Cloud Native Technologies
 
-```yaml
-# kashif-ali.config.yaml
-name:       "Syed Kashif Ali"
-role:       "DevOps Engineer → Future Enterprise Architect"
-location:   "India 🇮🇳"
-status:     "ACTIVE — Shipping to prod daily"
+⚙️ Automating Deployments with CI/CD Pipelines
 
-current_mission:
-  - "🛰️  Building real-time Monitoring Tool"
-  - "🏗️  Mastering Advanced Kubernetes & Terraform"
-  - "🔁  Automating all the things with CI/CD"
-  - "🌐  Multi-cloud: AWS · Azure · GCP · OCI"
+📚 Currently Mastering Advanced Kubernetes & Terraform
 
-fun_fact:   "I find joy in powerful FREE DevOps tools 🎉"
-open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
-```
+🎯 Focused on Becoming an Enterprise DevOps Architect
 
----
-
-## 🌐 CLOUD DOMINION
-
-<div align="center">
-
-| ☁️ AWS | 🔵 Azure | 🟡 GCP | 🔴 Oracle Cloud |
-|:---:|:---:|:---:|:---:|
-| EC2 · S3 · Lambda | VM · AKS · DevOps | GKE · Cloud Run | OCI · Compute |
-| RDS · DynamoDB · EKS | Blob · Functions | BigQuery · GCS | Autonomous DB |
-
-</div>
-
----
-
-## 🛠️ TECH ARSENAL
-
-### ⚙️ DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![TravisCI](https://img.shields.io/badge/Travis_CI-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-
-### 🔥 Streaming & Data
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🌐 Web & Frameworks
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### 🔧 Build & Package
-![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-### 📡 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+🎉 Fun Fact: I Love Powerful Free DevOps Tools
 
 ---
 
@@ -109,114 +48,42 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifsayyad09&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifsayyad09&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifsayyad09&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifsayyad09&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kashifsayyad09&theme=chartreuse-dark&hide_border=true&fire=00FFB3&ring=00FFB3&currStreakLabel=00FFB3" />
+<br><br>
 
-</div>
-
----
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kashifsayyad09&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://streak-stats.demolab.com?user=kashifsayyad09&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔝 TOP BATTLEFIELD CONTRIBUTIONS
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kashifsayyad09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=kashifsayyad09&theme=matrix&no-frame=true&margin-w=10" />
 
 </div>
 
 ---
 
-## 💬 TRANSMISSION OF THE DAY
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifsayyad09&theme=github-compact&hide_border=true" />
 
 </div>
 
 ---
 
-
-## 🚀 FEATURED PROJECTS
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🤖 **MCP Server + Claude AI** | Docker · AWS EC2 · Amazon Bedrock · REST API | Built MCP server for Claude AI via Bedrock; prompt orchestration, containerized & deployed on EC2 |
-| 🔁 **CI/CD & GitOps Pipeline** | Jenkins · Kubernetes · Argo CD · Prometheus · Grafana | End-to-end automated build/test/deploy; GitOps sync via Argo CD; full observability stack |
-| ☁️ **AWS Infrastructure with Terraform** | Terraform · EC2 · S3 · IAM · VPC · Docker | Modular IaC for AWS; least-privilege IAM; Docker workloads on EC2 |
-| ⚙️ **Kubernetes Cluster Setup** | kubeadm · Helm · RBAC · Ingress · HPA · EBS | Multi-node cluster on AWS EC2; Helm charts; NGINX Ingress; HPA + persistent storage |
-| 📋 **Ansible Config Management** | Ansible · YAML · Linux · Ansible Vault | Automated server provisioning; **80%+ reduction** in manual config time; rolling updates |
-| 🐧 **Linux Admin & Shell Scripting** | Linux · Bash · Cron · systemd · UFW | Log rotation, disk alerting, SSH hardening, Fail2ban brute-force protection |
-| 📊 **Monitoring & Alerting Stack** | Prometheus · Grafana · Alertmanager · Datadog | Full observability: custom dashboards for CPU, memory, pod health, latency & error rates |
-| 🔔 **Dynatrace + PagerDuty Alerting** | Dynatrace · PagerDuty · AWS · APM | Auto incident routing; Davis AI noise suppression; reduced MTTD & MTTR |
-| ⚡ **Serverless App on AWS** | Lambda · API Gateway · DynamoDB · CloudFront · S3 | Dual-Lambda architecture; auto CloudFront cache invalidation on deploy |
-
----
-
-## 🎓 CERTIFICATIONS
+## 💬 DEV QUOTE
 
 <div align="center">
 
-| Badge | Certification | Issuer |
-|:-----:|:-------------|:-------|
-| ☁️ | **AWS Well-Architected Proficient** | Amazon Web Services |
-| 🤖 | **Claude in Amazon Bedrock** | Amazon Web Services |
-| 🔴 | **Oracle Cloud Infrastructure 2025 Foundations Associate** | Oracle |
-| 🐧 | **LFS101: Introduction to Linux** | The Linux Foundation |
-| ☁️ | **AWS Cloud Practitioner Essentials** | AWS Skill Builder |
-| 🏆 | **AWS Cloud Quest** | Amazon Web Services |
-
-</div>
-
----
-
-## 🎓 EDUCATION
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| 🎓 **Bachelor of Computer Application** | Savitribai Phule Pune University, Pune | 2022–2025 | CGPA: 8.3/10 |
-| 📚 **Higher Secondary (12th Grade)** | Maharashtra State Board, Beed | 2022 | 74% |
-
-</div>
-
----
-
-## 🗺️ CURRENTLY DEPLOYING TO PROD
-
-| 🛰️ PROJECT | Monitvops — Real-time monitoring tool |
-|:---|:---|
-| 📦 **STACK** | React Native · AWS · Kubernetes · Kafka |
-| 🔁 **CI/CD** | GitHub Actions → ECR → EKS |
-| 📡 **STATUS** | `████████████░░░░` 75% — SHIPPING SOON ⚡ |
-
----
-
-<div align="center">
-
-**⚡ "Automate everything. Scale infinitely. Break nothing." ⚡**
-
-*— Syed Kashif Ali, DevOps Engineer*
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=kashifsayyad09&icon=5&color=6)](https://visitcount.itsvg.in)
-
-*Built with 🐳 containers and ☕ caffeine | Proudly crafted for the cloud*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
