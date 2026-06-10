@@ -117,7 +117,11 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 </div>
 
 ---
-
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifsayyad09&theme=tokyonight&hide_border=true&ring=FF9900&fire=f5576c&currStreakLabel=6ee7f7"/>
+</p>
+---
 ## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
