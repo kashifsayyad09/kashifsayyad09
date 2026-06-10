@@ -114,8 +114,6 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifsayyad09&theme=tokyo-night&bg_color=0a0e1a&color=FF9900&line=6ee7f7&point=f5576c&area=true&hide_border=true"/>
-
 </div>
 
 ---
