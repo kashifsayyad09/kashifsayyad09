@@ -122,12 +122,15 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifsayyad09&theme=tokyonight&hide_border=true&ring=FF9900&fire=f5576c&currStreakLabel=6ee7f7"/>
 </p>
 ---
-## 🏆 ACHIEVEMENT UNLOCKED
+<br/>
+## 🏆 GitHub Achievements
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kashifsayyad09&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kashifsayyad09?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/kashifsayyad09?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/kashifsayyad09/CloudTechDevOps?style=for-the-badge&logo=git"/>
+</p>
 </div>
 
 ---
