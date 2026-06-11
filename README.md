@@ -5,7 +5,9 @@
 <p align="center">
   <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
 </p>
+
 ---
+
 ### *Learning, Building, and Automating Modern Cloud Infrastructure*
 
 
