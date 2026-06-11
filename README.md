@@ -249,5 +249,5 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 [![](https://visitcount.itsvg.in/api?id=kashifsayyad09&icon=5&color=6)](https://visitcount.itsvg.in)
 
 *Built with 🐳 containers and ☕ caffeine | Proudly crafted for the cloud*
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
 </div>
