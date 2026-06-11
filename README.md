@@ -1,12 +1,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
----
+
 <p align="center">
   <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
 </p>
 ---
+> *"I don't just practice cloud — I build engineers who ship to production."*
+[![Profile Views](https://komarev.com/ghpvc/?username=kashifsayyad09&color=FF9900&style=for-the-badge&label=Profile+Views)](https://github.com/kashifsayyad09)
 
+[![Website](https://img.shields.io/badge/syed.drocart.shop-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://syed.drocart.shop/)
+
+[![Medium](https://img.shields.io/badge/Blogs-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kashifsayyad09)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kashif-ali-844137292/)
+---
 ## 👋 About Me
 
 Hi, I'm Syed Kashif Ali, an aspiring DevOps and Cloud Engineer with a strong interest in cloud computing, automation, and modern software deployment practices.
