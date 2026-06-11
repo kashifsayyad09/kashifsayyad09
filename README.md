@@ -4,10 +4,17 @@
 
 ---
 
-# 💫 About Me:
-💫 About Me<br><br>🚀 CEO of Drocart<br><br>🚀 Building a real-time CICD Tool for CICD<br><br>☁️ Working across AWS, Azure, GCP & OCI<br><br>🐳 Passionate about Containers & Kubernetes<br><br>⚙️ Automating deployments using CI/CD pipelines<br><br>📚 Currently mastering Advanced Kubernetes & Terraform<br><br>🎯 Focused on becoming Enterprise DevOps Architect<br><br>🎉 Fun Fact: I love powerful free DevOps tools!
+## 👋 About Me
 
+Hi, I'm Syed Kashif Ali, an aspiring DevOps and Cloud Engineer with a strong interest in cloud computing, automation, and modern software deployment practices.
 
+I am currently building my skills in AWS, Linux, Terraform, Docker, Kubernetes, CI/CD, and Python through hands-on projects and real-world labs. I enjoy learning how applications are deployed, managed, and scaled in cloud environments.
+
+As a technology enthusiast, I continuously work on improving my technical knowledge by creating projects, exploring cloud services, and practicing infrastructure automation. My goal is to start my career in DevOps and contribute to building reliable, scalable, and efficient systems.
+
+I am passionate about learning new technologies, solving problems, and growing as a cloud and DevOps professional. I am always looking for opportunities to gain practical experience and collaborate with industry professionals.
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-kashif-ali-844137292/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UR_Kashif_Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com) 
 
