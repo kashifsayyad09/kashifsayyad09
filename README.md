@@ -121,9 +121,10 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifsayyad09&theme=tokyonight&hide_border=true&ring=FF9900&fire=f5576c&currStreakLabel=6ee7f7"/>
 </p>
+<>
 ---
-<br/>
-## 🏆 GitHub Achievements
+
+### 🏆 GitHub Achievements
 
 <div align="center">
 <p align="center">
@@ -209,6 +210,10 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 | 📦 **STACK** | React Native · AWS · Kubernetes · Kafka |
 | 🔁 **CI/CD** | GitHub Actions → ECR → EKS |
 | 📡 **STATUS** | `████████████░░░░` 75% — SHIPPING SOON ⚡ |
+
+---
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/FF9900/kashifsayyad09" alt="Contribution Calendar" width="100%"/>
 
 ---
 
