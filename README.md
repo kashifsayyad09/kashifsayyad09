@@ -6,6 +6,9 @@
   <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
 </p>
 ---
+### *Building scalable, resilient, and automated cloud infrastructures*
+
+
 > *"I don't just practice cloud — I build engineers who ship to production."*
 [![Profile Views](https://komarev.com/ghpvc/?username=kashifsayyad09&color=FF9900&style=for-the-badge&label=Profile+Views)](https://github.com/kashifsayyad09)
 
