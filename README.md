@@ -6,10 +6,10 @@
   <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
 </p>
 ---
-### *Building scalable, resilient, and automated cloud infrastructures*
+### *Learning, Building, and Automating Modern Cloud Infrastructure*
 
 
-> *"I don't just practice cloud — I build engineers who ship to production."*
+> *"Every expert was once a beginner. I learn by building real-world projects and solving practical problems."*
 [![Profile Views](https://komarev.com/ghpvc/?username=kashifsayyad09&color=FF9900&style=for-the-badge&label=Profile+Views)](https://github.com/kashifsayyad09)
 
 [![Website](https://img.shields.io/badge/syed.drocart.shop-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://syed.drocart.shop/)
