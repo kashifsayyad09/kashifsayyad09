@@ -166,6 +166,11 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 </div>
 
 ---
+## 🏆 GitHub Trophy 
+
+![Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=kashifsayyad09)
+
+---
 
 ## 💬 TRANSMISSION OF THE DAY
 
