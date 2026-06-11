@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:3257A8&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multicloud%20DevOps|%20AWS%20Azure%20GCP&descAlignY=55&descSize=18"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=I7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+%26+CloudOps+Engineer+%40+TechVedika+%F0%9F%9A%80;AWS+%7C+Azure+%7C+GCP+Practitioner+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Kubernetes+%26+Docker+Enthusiast+%F0%9F%90%B3;Infrastructure+as+Code+Advocate+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
