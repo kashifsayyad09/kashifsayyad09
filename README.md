@@ -261,7 +261,14 @@ open_to:    ["Collaborations", "DevOps projects", "Cloud consulting"]
 
 ---
 ### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/FF9900/kashifsayyad09" alt="Contribution Calendar" width="100%"/>
+<!-- Animated rotating social strip -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
