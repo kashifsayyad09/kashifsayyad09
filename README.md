@@ -23,7 +23,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kashifsayyad09)
 [![Website](https://img.shields.io/badge/Drocart-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)](http://www.drocart.shop/)
 [![VeeraCloud](https://img.shields.io/badge/My-Portfolio-06b6d4?style=flat-square&logo=icloud&logoColor=white)](https://syed.drocart.shop/)
-[![Profile Views](https://komarev.com/ghpvc/?username=CloudTechDevOps&color=3b82f6&style=flat-square&label=Profile+Views)](https://github.com/kashifsayyad09)
+[![Profile Views](https://komarev.com/ghpvc/?username=kashifsayyad09&color=3b82f6&style=flat-square&label=Profile+Views)](https://github.com/kashifsayyad09)
 
 </div>
 
