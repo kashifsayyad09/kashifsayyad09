@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:002050,100:12239E&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multicloud%20DevOps|%20AWS%20Azure%20GCP&descAlignY=55&descSize=18"/>
-</p>
-
 <div align="center">
 
 <picture>
@@ -13,7 +9,7 @@
 
 # SYED KASHIF ALI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Junior+DevOps+%26+Multi-Cloud+Architect+Building+Production-Grade+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=junior+DevOps+%26+Multi-Cloud+Architect;Building+Production-Grade+Systems" alt="Typing SVG" />
 
 <br/>
 
