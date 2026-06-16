@@ -2,28 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:002050,100:12239E&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multicloud%20DevOps|%20AWS%20Azure%20GCP&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=B9D300&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Syed+Kashif+Ali!;%9C+AWS+DevOps+%7C+Cloud+%7C+React+Native+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="ali.jpeg" width="350" style="border-radius: 80%;" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ali.jpeg">
+  <img src="ali.jpeg" width="120" style="border-radius: 50%; border: 3px solid #3b82f6;" alt="Syed Kashif Ali" />
+</picture>
 
----
+<br/>
 
-### *Learning, Building, and Automating Modern Cloud Infrastructure*
+# SYED KASHIF ALI
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Senior+DevOps+%26+Multi-Cloud+Architect;15%2B+Years+Building+Production-Grade+Systems" alt="Typing SVG" />
+
+<br/>
 
 > *"Every expert was once a beginner. I learn by building real-world projects and solving practical problems."*
-[![Profile Views](https://komarev.com/ghpvc/?username=kashifsayyad09&color=FF9900&style=for-the-badge&label=Profile+Views)](https://github.com/kashifsayyad09)
 
-[![Website](https://img.shields.io/badge/syed.drocart.shop-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://syed.drocart.shop/)
+<br/>
 
-[![Medium](https://img.shields.io/badge/Blogs-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kashifsayyad09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kashif-ali-844137292/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kashifsayyad09)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kashifsayyad09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kashifsayyad09)
+[![Website](https://img.shields.io/badge/Drocart-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)](http://www.drocart.shop/)
+[![VeeraCloud](https://img.shields.io/badge/My-Portfolio-06b6d4?style=flat-square&logo=icloud&logoColor=white)](https://syed.drocart.shop/)
+[![Profile Views](https://komarev.com/ghpvc/?username=CloudTechDevOps&color=3b82f6&style=flat-square&label=Profile+Views)](https://github.com/kashifsayyad09)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kashif-ali-844137292/)
+</div>
 ---
 ## 👋 About Me
 
