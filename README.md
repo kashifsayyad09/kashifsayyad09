@@ -13,7 +13,7 @@
 
 # SYED KASHIF ALI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Senior+DevOps+%26+Multi-Cloud+Architect;15%2B+Years+Building+Production-Grade+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Junior+DevOps+%26+Multi-Cloud+Architect+Building+Production-Grade+Systems" alt="Typing SVG" />
 
 <br/>
 
